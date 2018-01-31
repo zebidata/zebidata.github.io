@@ -1,4 +1,3 @@
-# Zebi Data Pte. Ltd.
 Zebi is founded and managed by passionate IIT veterans from Silicon Valley with
 experience in Facebook, Google, Uber, Microsoft, Oracle and Amazon. Across Zebi
 employees and inception team there are over 15 IIT graduates.
