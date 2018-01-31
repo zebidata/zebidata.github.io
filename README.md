@@ -21,3 +21,5 @@ against hacking or tampering, and taking individual consent wherever appropriate
 comprises of a satellite component Zebi Chain™ to provide immutability to critical
 records, coupled with a central hub viz., Zebi Data Gateway which enables secure and
 instant data exchange through Data as a Service (DaaS) API’s
+
+Zebi [here](https://github.com/zebidata/zebicrowdsale)
