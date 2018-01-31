@@ -1,6 +1,24 @@
 # Zebi Data Pte. Ltd.
-Zebi Data is a Big Data Analytics company founded and managed by passionate IIT graduates with over 2 decades of International Industry experience. 
+Zebi is founded and managed by passionate IIT veterans from Silicon Valley with
+experience in Facebook, Google, Uber, Microsoft, Oracle and Amazon. Across Zebi
+employees and inception team there are over 15 IIT graduates.
 
-Our Big Data Analytics platform, Zebi™ is a versatile, first-of-a-kind Big Data Analytics platform, built with large scale machine learning algorithms, designed by architects from the Silicon valley. Headquartered in Vizag, part of AP’s start-up village program.
+India’s big data generation is increasing exponentially and is expected to reach 3
+Zebibytes per year (Zebibyte = 10247 bytes) by 2020, driven by continued growth of
+internet usage, social networks, proliferation of smart phones, as well as the digital
+initiatives and structural reforms undertaken by the government. At the same time,
+incidents of data crimes such as data hacks, data leaks, data tampering, identity
+thefts are on the rise, which are costing Indian organizations and consumers more
+than $30 billion annually.
 
-Zebi is first-of-a-kind, Ultra-scalable, super-secure, and comprehensive database of people. Zebi is all about helping governments, companies, direct marketing agencies and anyone who needs reliable, secure and trustworthy source of people data for enhancing the reach and ROI of their products or services using Big Data Analytics.
+Zebi specializes in providing block chain based solutions to governments and
+enterprises to leverage and protect their high value and sensitive data. Zebi is one of
+the few enterprise grade product companies based in India offering best of the
+expertise of Silicon Valley at Indian prices
+
+Zebi has created a Blockchain driven, first of a kind and holistic solution to make
+high value (or sensitive) data readily available for legitimate use, while protecting it
+against hacking or tampering, and taking individual consent wherever appropriate. It
+comprises of a satellite component Zebi Chain™ to provide immutability to critical
+records, coupled with a central hub viz., Zebi Data Gateway which enables secure and
+instant data exchange through Data as a Service (DaaS) API’s
